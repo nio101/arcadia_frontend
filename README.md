@@ -5,7 +5,7 @@ Using:
 
 Développer directment sous linux...
 
-On utilise un PIC 16F1455 et un kit ibld.it ($15 sur tindie)
+On utilise un PIC 16F1455 et un kit ibld.it ($15 sur tindie): http://ubld.it/products/usb-pic16f1455-breakout-board/
 
 tutorial lié & code source exemple USB HID:
 https://www.codeproject.com/Articles/830856/Microchip-PIC-F-USB-Stack
